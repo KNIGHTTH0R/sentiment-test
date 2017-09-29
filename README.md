@@ -6,3 +6,4 @@ Data :
 2. Kata Negatif
 3. Kata Dasar
 4. Kata Penghubung
+5. Lexicon Model
